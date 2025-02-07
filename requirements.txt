@@ -1,0 +1,6 @@
+Python
+NTLK
+PANDAS
+scikit-learn
+string
+matplotlib
