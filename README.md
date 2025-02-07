@@ -8,3 +8,9 @@ Media Inc.
 
 Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher (June 2011),Learning Word Vectors for Sentiment Analysis Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, Association for Computational Linguistics, Portland, Oregon, USA, (pages: 142--150}, http://www.aclweb.org/anthology/P11-1015
 
+Options/Ideas:
+
+1) Website where comment section of a tweet to figure out the reception to the tweet.
+2) Compare the training set, to test Vader's accuracy.
+3) Based on reviews (how people felt), give a movie a review.
+4) Twitter summary of comment section bot.
