@@ -15,4 +15,4 @@ scores_4 = analyzer.polarity_scores(review_neg)
 print(scores)
 print(scores1)
 print(scores_3)
-print(scores_4)
+print(scores_4) # added scores 4 to test for negative reviews
