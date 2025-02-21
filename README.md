@@ -11,7 +11,7 @@ Maas, Andrew L. and Daly, Raymond E. and Pham, Peter T. and Huang, Dan and Ng, A
 
 Options/Ideas:
 
-1. Website where comment section of a tweet to figure out the reception to the tweet.
+1. Website where comment section of a tweet is used to figure out the reception of the tweet.
 2. Compare the training set, to test Vader's accuracy.
 3. Based on reviews (how people felt), give a movie a review.
 4. Twitter summary of comment section bot.
