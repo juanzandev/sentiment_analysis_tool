@@ -12,8 +12,9 @@ Maas, Andrew L. and Daly, Raymond E. and Pham, Peter T. and Huang, Dan and Ng, A
 Options/Ideas:
 
 1. Website where comment section of a tweet is used to figure out the reception of the tweet.
-2. Compare the training set, to test Vader's accuracy.
-3. Based on reviews (how people felt), give a movie a review.
-4. Twitter summary of comment section bot.
+2. Natalia Assignment: Learn how to use NTLK library in Python, and the basics on Natural Language processing. Learn how to train a model with the data set we downloaded. Also, help me with my room hehe :D
+3. Compare the training set, to test Vader's accuracy.
+4. Based on reviews (how people felt), give a movie a review.
+5. Twitter summary of comment section bot.
 
 Youtube series: https://www.youtube.com/watch?v=LQQbW3Pve5U&list=PLS1QulWo1RIZDws-_0Bfw5FZFmQJWtMl1
