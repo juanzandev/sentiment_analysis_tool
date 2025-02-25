@@ -18,3 +18,4 @@ Options/Ideas:
 5. Twitter summary of comment section bot.
 
 Youtube series: https://www.youtube.com/watch?v=LQQbW3Pve5U&list=PLS1QulWo1RIZDws-_0Bfw5FZFmQJWtMl1
+Info: https://www.geeksforgeeks.org/introduction-to-nltk-tokenization-stemming-lemmatization-pos-tagging/#part-of-speech-tagging 
